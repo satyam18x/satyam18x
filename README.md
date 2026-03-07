@@ -13,21 +13,26 @@ Passionate Developer | Building scalable web apps and exploring modern technolog
 * 🧠 Interested in backend systems, APIs, and scalable architectures
 
 ---
+
 ## 🌐 Connect With Me
+
 <p align="center">
+
 <a href="https://www.instagram.com/_satyyam_18?igsh=bDd6cWxxN29qczdu">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="www.linkedin.com/in/satyam-haldkar-b9b366310">
+<a href="https://www.linkedin.com/in/satyam-haldkar-b9b366310">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-
-<a href="satyamhaldkar45@gmail.com">
+<a href="mailto:satyamhaldkar45@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
 </p>
+
+---
 
 ## 🛠 Tech Stack
 
@@ -37,5 +42,4 @@ Passionate Developer | Building scalable web apps and exploring modern technolog
 
 ---
 
->                                  “First, solve the problem. Then, write the code.” – John Johnson
-
+> “First, solve the problem. Then, write the code.” – John Johnson
