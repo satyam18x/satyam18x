@@ -26,7 +26,7 @@ Passionate Developer | Building scalable web apps and exploring modern technolog
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:satyamhaldkar45@gmail.com">
+<a href="satyamhaldkar45@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
