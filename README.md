@@ -33,5 +33,3 @@ Passionate Developer | Building scalable web apps and exploring modern technolog
 </p>
 
 ---
-
-> “First, solve the problem. Then, write the code.” – John Johnson
