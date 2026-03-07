@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <h1 align="center">Hi 👋, I'm Satyam Haldkar</h1>
 
 <p align="center">
@@ -28,9 +25,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
-
 ---
-
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -38,19 +33,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
 ## 💡 Quote
 
 > “First, solve the problem. Then, write the code.” – John Johnson
