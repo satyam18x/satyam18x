@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Satyam Haldkar</h1>
+<h1 align="center">Hi, I'm Satyam Haldkar</h1>
 
 <p align="center">
-🚀 Passionate Developer | Building scalable web apps and exploring modern technologies
+Passionate Developer | Building scalable web apps and exploring modern technologies
 </p>
 
 ---
@@ -13,19 +13,22 @@
 * 🧠 Interested in backend systems, APIs, and scalable architectures
 
 ---
-
 ## 🌐 Connect With Me
-
 <p align="center">
-<a href="YOUR_INSTAGRAM_LINK">
+<a href="https://www.instagram.com/_satyyam_18?igsh=bDd6cWxxN29qczdu">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="www.linkedin.com/in/satyam-haldkar-b9b366310">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+
+<a href="satyamhaldkar45@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
----
+
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -33,7 +36,6 @@
 </p>
 
 ---
-## 💡 Quote
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+>                                  “First, solve the problem. Then, write the code.” – John Johnson
 
