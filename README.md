@@ -6,14 +6,6 @@ Passionate Developer | Building scalable web apps and exploring modern technolog
 
 ---
 
-## 👨‍💻 About Me
-
-* 💻 Full Stack Developer
-* ⚡ Skilled in building modern web applications
-* 🧠 Interested in backend systems, APIs, and scalable architectures
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
