@@ -29,7 +29,7 @@ Passionate Developer | Building scalable web apps and exploring modern technolog
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,js,mongodb,postman,python,fastapi,docker,c,cpp" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,js,mongodb,postman,python,fastapi,docker,c,cpp,streamlit" />
 </p>
 
 ---
