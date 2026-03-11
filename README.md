@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Satyam Haldkar</h1>
+<h1 align="center">Hello, I'm Satyam Haldkar</h1>
 
 <p align="center">
 Passionate Developer | Building scalable web apps and exploring modern technologies
