@@ -24,6 +24,7 @@ Passionate Developer | Building scalable web apps and exploring modern technolog
 
 </p>
 
+
 ---
 
 ## 🛠 Tech Stack
@@ -33,3 +34,7 @@ Passionate Developer | Building scalable web apps and exploring modern technolog
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam18x&layout=compact&theme=tokyonight"/>
+</p>
