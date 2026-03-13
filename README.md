@@ -1,7 +1,7 @@
 <h1 align="center">Hii, I'm Satyam Haldkar</h1>
 
 <p align="center">
-Passionate Developer | Building scalable web apps and exploring modern technologies
+Passionate Full Stack Developer | Building scalable web apps and exploring modern technologies
 </p>
 
 ---
