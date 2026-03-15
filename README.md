@@ -35,6 +35,4 @@ Passionate Full Stack Developer | Building scalable web apps and exploring moder
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam18x&layout=compact&theme=tokyonight"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam18x&layout=compact&theme=tokyonight)
