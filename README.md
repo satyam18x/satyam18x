@@ -30,7 +30,7 @@ Passionate Full Stack Developer | Building scalable web apps and exploring moder
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,js,mongodb,postman,python,fastapi,docker,c,cpp,streamlit" />
+<img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,tailwind,js,mongodb,postman,python,fastapi,docker,c,cpp,streamlit" />
 </p>
 
 ---
