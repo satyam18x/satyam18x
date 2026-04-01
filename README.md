@@ -10,10 +10,10 @@ Building scalable web apps ⚡ | Exploring modern technologies 🌐 | Turning id
 
 ## 🌟 About Me
 
+- 🚀 Exploring **deployment strategies, cloud hosting, and modern DevOps practices**
 - 🔭 Currently working on **Full Stack Projects & AI-based solutions**
 - 🌱 Learning **Advanced Backend & System Design**
 - 💡 Passionate about **clean code & scalable architecture**
-- ⚡ Fun fact: *I turn coffee into code ☕ → 💻*
 
 ---
 
