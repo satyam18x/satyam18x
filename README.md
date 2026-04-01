@@ -56,12 +56,12 @@
 
 ---
 
-<div align="center"
+<div align="center">
+
+### `$ neofetch --stats`
+
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam18x&layout=compact&theme=ayu-mirage&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=94a3b8&langs_count=6"/>
-
-<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=satyam18x&theme=dark&hide_border=true&background=0D1117&ring=00d9ff&fire=f59e0b&currStreakLabel=00d9ff&sideLabels=475569&currStreakNum=ffffff&sideNums=94a3b8&dates=475569)](https://git.io/streak-stats)
 
