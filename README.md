@@ -56,29 +56,7 @@
 
 ---
 
-<div align="center">
-
-### `$ cat mission_log.txt`
-
-</div>
-
-<br/>
-
-```javascript
-const currentFocus = {
-  building  : "Full Stack & AI-powered applications",
-  exploring : ["Deployment strategies", "Cloud hosting", "System Design"],
-  obsessing : "Clean code that scales without crying at 2am",
-  believe   : "The best code is the one that ships — then improves",
-  nextLevel : "Backend architecture + containerized everything",
-};
-```
-
-<br/>
-
----
-
-<div align="center">
+<div align="center"
 
 ### `$ neofetch --stats`
 
@@ -134,13 +112,5 @@ const currentFocus = {
 
 </div>
 
-```
-root@satyam18x:~$ exit
-
-  >> "Commit. Push. Repeat."
-  >> Session terminated. Thanks for visiting.
-
-[Process completed — exit code 0] ✓
-```
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=0:001a2e,100:000000&height=4)
