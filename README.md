@@ -1,8 +1,6 @@
-
-
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0a0f1e,100:001a2e&height=210&text=SATYAM%20HALDKAR&fontSize=48&fontColor=00d9ff&fontAlignY=55&desc=◈%20Full%20Stack%20Dev%20%20∙%20%20System%20Thinker%20%20∙%20%20Perpetual%20Builder%20◈&descSize=13&descFontColor=475569&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0a0f1e,100:001a2e&height=160&text=SATYAM%20HALDKAR&fontSize=36&fontColor=00d9ff&fontAlignY=48&desc=◈%20Full%20Stack%20Dev%20∙%20System%20Thinker%20∙%20Perpetual%20Builder%20◈&descSize=12&descFontColor=475569&descAlignY=68&animation=blinking)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1100&color=00D9FF&center=true&vCenter=true&width=580&lines=%24+whoami+%E2%86%92+someone+who+ships+things;%24+./stack.sh+%E2%86%92+react+%7C+node+%7C+python+%7C+docker;%24+git+log+--oneline+%E2%86%92+always+something+cooking+%F0%9F%94%A5;%24+sudo+apt+install+new-skill+%E2%86%92+[installing...];%24+uptime+%E2%86%92+still+going+%E2%9A%A1)](https://git.io/typing-svg)
 
