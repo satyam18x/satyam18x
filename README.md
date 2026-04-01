@@ -57,9 +57,6 @@
 ---
 
 <div align="center"
-
-### `$ neofetch --stats`
-
 <br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam18x&layout=compact&theme=ayu-mirage&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=94a3b8&langs_count=6"/>
