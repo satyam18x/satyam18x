@@ -34,15 +34,23 @@
 
 <br/>
 
-**[ FRONTEND ]**
+**[ LANGUAGES ]**
 
-<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,js,python&theme=dark&perline=6" />
 
 <br/>
 
-**[ BACKEND & AI ]**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb&theme=dark&perline=6" />
+**[ FRONTEND ]**
+
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind&theme=dark&perline=6" />
+
+<br/>
+
+**[ BACKEND ]**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb&theme=dark&perline=6" />
 
 <br/>
 
