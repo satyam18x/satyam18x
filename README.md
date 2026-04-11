@@ -37,7 +37,7 @@
 **[ LANGUAGES ]**
 
 <img src="https://skillicons.dev/icons?i=cpp,js,python&theme=dark&perline=6" />
-https://cdn.jsdelivr.net/gh/satyam18x/satyam18x-assets@main/assets/javascript.gif
+
 
 <br/>
 
