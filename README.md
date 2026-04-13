@@ -36,7 +36,7 @@
 
 **[ LANGUAGES ]**
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark&perline=6" />
 
 
 <br/>
