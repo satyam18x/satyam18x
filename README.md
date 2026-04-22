@@ -65,20 +65,7 @@
 
 ---
 
-<div align="center">
 
-### `$ neofetch --stats`
-
-<br/>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=satyam18x&theme=dark&hide_border=true&background=0D1117&ring=00d9ff&fire=f59e0b&currStreakLabel=00d9ff&sideLabels=475569&currStreakNum=ffffff&sideNums=94a3b8&dates=475569)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
----
 
 <div align="center">
 
