@@ -65,10 +65,24 @@
 
 ---
 
-
-
 <div align="center">
 
+### `$ cat /proc/languages`
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam18x&layout=compact&theme=transparent&langs_count=8&hide_border=true"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  
+
+
+  
 ### `$ tail -f activity.log`
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyam18x&bg_color=0d1117&color=00d9ff&line=f59e0b&point=ffffff&area=true&area_color=00d9ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
