@@ -45,7 +45,7 @@
 
 **[ FRONTEND ]**
 
-<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,nextjs,tailwind&theme=dark&perline=6" />
 
 <br/>
 
