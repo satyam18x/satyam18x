@@ -11,7 +11,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║   root@satyam18x:~$ cat /sys/profil                           ║
+║   root@satyam18x:~$ cat /sys/profile                           ║
 ║                                                                   ║
 ║   NAME     →  Satyam Haldkar                                      ║
 ║   ALIAS    →  satyam18x                                           ║
@@ -69,9 +69,8 @@
 
 ### `$ cat /proc/languages`
 
-<br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=satyam18x&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam18x&layout=compact&theme=transparent&langs_count=8&hide_border=true"/>
 </div>
 
 <br/>
