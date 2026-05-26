@@ -57,7 +57,7 @@
 
 **[ INFRASTRUCTURE ]**
 
-<img src="https://skillicons.dev/icons?i=docker,postman,git,github,vscode&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=docker,postman,firebase,git,github,vscode&theme=dark&perline=6" />
 
 </div>
 
