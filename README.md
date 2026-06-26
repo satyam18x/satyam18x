@@ -16,7 +16,7 @@
 ║   NAME     →  Satyam Haldkar                                      ║
 ║   ALIAS    →  satyam18x                                           ║
 ║   BASE     →  India 🇮🇳                                           ║
-║   ROLE     →  Full Stack Developer                                ║
+║   ROLE     →  Full Stack Developer + App Dev                      ║
 ║   LOADING  →  [ ████████████░░░░ ]  Advanced Backend + DevOps    ║
 ║   MISSION  →  Turn ideas → scalable, production-ready systems    ║
 ║   STATUS   →  Online · Heads down · Shipping ⚡                   ║
