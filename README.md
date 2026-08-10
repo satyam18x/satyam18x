@@ -66,22 +66,6 @@
 ---
 
 <div align="center">
-
-### `$ cat /proc/languages`
-
-<img
-  align="center"
-  height="170"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=satyam18x&layout=compact&langs_count=16&theme=dracula"
-/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
   
 
 
