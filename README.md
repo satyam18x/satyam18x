@@ -11,7 +11,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║   root@satyam18x:~$ cat /sys/profil                           ║
+║   root@satyam18x:~$ cat /sys/profile                           ║
 ║                                                                   ║
 ║   NAME     →  Satyam Haldkar                                      ║
 ║   ALIAS    →  satyam18x                                           ║
